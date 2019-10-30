@@ -12,7 +12,7 @@ gem "capybara"
 gem "pry"
 gem 'sqlite3', '~> 1.3.6'
 gem 'shotgun'
-
+gem 'tux'
 group :development do
   gem "tux"
 end
